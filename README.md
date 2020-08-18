@@ -11,4 +11,4 @@ Tools and Technologies used : Django, Mysql, Bootstrap, Javascript, Python, HTML
 <hr>
 <h5>To run the project </h5>
 <p>1.Run the requirements.txt file to download all the dependencies </p>
-<p>3. Run command : python manage.py runserver </p>
+<p>2. Run command : python manage.py runserver </p>
