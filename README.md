@@ -11,17 +11,23 @@ A Real Estate Management Application where users can login and view all the list
 
 ## Installation
 
-**1.clone Repository & Install Packages**
+**1. Clone Repository & Install Packages**
 ```sh
 git clone https://github.com/mishrakeshav/Django-Real-Estate-Website.git
 pip install -r requirements.txt
 ```
-**2.Setup Virtualenv**
+**2. Setup Environment**
 ```sh
-virtualenv env
-source env/bin/activate
-```
-**3.Migrate & Start Server**
+python -m  venv venv
+source venv/bin/activate
+``````
+OR on Windows
+```sh
+python -m  venv venv
+activate.bat
+``````
+
+**3. Migrate & Start Server**
 ```sh
 python manage.py makemigrations
 python manage.py migrate
