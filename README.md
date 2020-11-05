@@ -6,7 +6,6 @@ A Real Estate Management Application where users can login and view all the list
 ## Features Included
 - Custom Admin dashboard
 - Search Functionality
-- Payments Using Stripe
 - Responsive, mobile-friendly design
 - Much more...
 
