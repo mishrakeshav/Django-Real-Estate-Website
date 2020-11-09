@@ -7,6 +7,9 @@ A Real Estate Management Application where users can login and view all the list
 - Custom Admin dashboard
 - Search Functionality
 - Responsive, mobile-friendly design
+- Forgot password 
+- User registration
+- latest listing 
 - Much more...
 
 ## Installation
